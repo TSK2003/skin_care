@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="roseGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" />
+      <stop offset="50%" stop-color="#e11d48" />
+      <stop offset="100%" stop-color="#be123c" />
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="14" fill="url(#roseGlow)" />
+  <path d="M24 10C24 10 25.5 17.5 29.5 21.5C33.5 25.5 41 27 41 27C41 27 33.5 28.5 29.5 32.5C25.5 36.5 24 44 24 44C24 44 22.5 36.5 18.5 32.5C14.5 28.5 7 27 7 27C7 27 14.5 25.5 18.5 21.5C22.5 17.5 24 10 24 10Z" fill="white" opacity="0.95" />
+  <circle cx="34" cy="14" r="3" fill="url(#goldGlow)" />
+  <circle cx="14" cy="34" r="2" fill="url(#goldGlow)" />
+</svg>
